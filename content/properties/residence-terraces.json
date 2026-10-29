@@ -1,0 +1,314 @@
+{
+  "slug": "residence-terraces",
+  "order": 3,
+  "published": true,
+  "demo": true,
+  "name": "Residence Terraces",
+  "tagline": {
+    "en": "Three levels stepping up the slope, each with its own terrace.",
+    "es": "Tres niveles que ascienden por la ladera, cada uno con su terraza.",
+    "ca": "Tres nivells que pugen pel pendent, cadascun amb la seva terrassa."
+  },
+  "municipality": {
+    "en": "Demonstration plot",
+    "es": "Parcela de demostración",
+    "ca": "Parcel·la de demostració"
+  },
+  "zone": {
+    "en": "Northwest, Serra de Tramuntana · demonstration",
+    "es": "Noroeste, Serra de Tramuntana · demostración",
+    "ca": "Nord-oest, Serra de Tramuntana · demostració"
+  },
+  "summary": {
+    "en": "A demonstration record showing how a residence is presented. Replace the text, figures and media with the project's confirmed information.",
+    "es": "Un registro de demostración que muestra cómo se presenta una residencia. Sustituya textos, cifras y archivos por la información confirmada del proyecto.",
+    "ca": "Un registre de demostració que mostra com es presenta una residència. Substituïu textos, xifres i fitxers per la informació confirmada del projecte."
+  },
+  "location": {
+    "lat": 39.76,
+    "lng": 2.66,
+    "precision": "approximate",
+    "radiusMeters": 3500,
+    "note": {
+      "en": "Illustrative position, not a real plot.",
+      "es": "Posición ilustrativa, no corresponde a una parcela real.",
+      "ca": "Posició il·lustrativa, no correspon a cap parcel·la real."
+    }
+  },
+  "specs": {
+    "plotArea": null,
+    "builtArea": null,
+    "bedrooms": null,
+    "bathrooms": null,
+    "illustrative": true
+  },
+  "price": {
+    "mode": "on-request",
+    "amount": null,
+    "currency": "EUR",
+    "confirmed": false
+  },
+  "status": {
+    "value": "in-preparation",
+    "confirmed": false
+  },
+  "features": [
+    {
+      "en": "Sea views (to be confirmed on site)",
+      "es": "Vistas al mar (por confirmar in situ)",
+      "ca": "Vistes a la mar (per confirmar in situ)"
+    },
+    {
+      "en": "Infinity pool (study)",
+      "es": "Piscina desbordante (estudio)",
+      "ca": "Piscina desbordant (estudi)"
+    },
+    {
+      "en": "Terraces and pergola (study)",
+      "es": "Terrazas y pérgola (estudio)",
+      "ca": "Terrasses i pèrgola (estudi)"
+    },
+    {
+      "en": "Industrialised construction by ModularDom",
+      "es": "Construcción industrializada de ModularDom",
+      "ca": "Construcció industrialitzada de ModularDom"
+    }
+  ],
+  "architecture": [
+    {
+      "id": "concept",
+      "title": {
+        "en": "Concept",
+        "es": "Concepto",
+        "ca": "Concepte"
+      },
+      "body": {
+        "en": "Placeholder for the architectural concept from the project report. Describe how the residence answers its plot: orientation, views, the slope and what was kept.",
+        "es": "Texto provisional para el concepto arquitectónico de la memoria del proyecto. Describa cómo responde la residencia a su parcela: orientación, vistas, pendiente y lo que se ha conservado.",
+        "ca": "Text provisional per al concepte arquitectònic de la memòria del projecte. Descriviu com respon la residència a la parcel·la: orientació, vistes, pendent i què s'ha conservat."
+      },
+      "verified": false,
+      "image": {
+        "src": "/projects/_demo/terraces/detail.jpg",
+        "alt": {
+          "en": "Demonstration plate: architectural detail, study maquette",
+          "es": "Imagen de demostración: architectural detail, maqueta de estudio",
+          "ca": "Imatge de demostració: architectural detail, maqueta d'estudi"
+        },
+        "width": 2000,
+        "height": 1125,
+        "demo": true
+      }
+    },
+    {
+      "id": "materials",
+      "title": {
+        "en": "Materials and finishes",
+        "es": "Materiales y acabados",
+        "ca": "Materials i acabats"
+      },
+      "body": {
+        "en": "Placeholder. List only materials confirmed in the project specification.",
+        "es": "Texto provisional. Indique solo materiales confirmados en la especificación del proyecto.",
+        "ca": "Text provisional. Indiqueu només materials confirmats a l'especificació del projecte."
+      },
+      "verified": false
+    },
+    {
+      "id": "indoor-outdoor",
+      "title": {
+        "en": "Inside and out",
+        "es": "Interior y exterior",
+        "ca": "Interior i exterior"
+      },
+      "body": {
+        "en": "Placeholder for how living spaces open to terraces, pool and garden.",
+        "es": "Texto provisional sobre cómo se abren los espacios a terrazas, piscina y jardín.",
+        "ca": "Text provisional sobre com s'obren els espais a terrasses, piscina i jardí."
+      },
+      "verified": false,
+      "image": {
+        "src": "/projects/_demo/terraces/pool.jpg",
+        "alt": {
+          "en": "Demonstration plate: pool terrace, study maquette",
+          "es": "Imagen de demostración: pool terrace, maqueta de estudio",
+          "ca": "Imatge de demostració: pool terrace, maqueta d'estudi"
+        },
+        "width": 2000,
+        "height": 1125,
+        "demo": true
+      }
+    },
+    {
+      "id": "light",
+      "title": {
+        "en": "Natural light",
+        "es": "Luz natural",
+        "ca": "Llum natural"
+      },
+      "body": {
+        "en": "Placeholder for orientation and daylight studies.",
+        "es": "Texto provisional para orientación y estudios de luz natural.",
+        "ca": "Text provisional per a orientació i estudis de llum natural."
+      },
+      "verified": false
+    },
+    {
+      "id": "construction",
+      "title": {
+        "en": "Industrialised construction",
+        "es": "Construcción industrializada",
+        "ca": "Construcció industrialitzada"
+      },
+      "body": {
+        "en": "Placeholder. Describe the ModularDom building process for this residence with confirmed facts only: what is made off site, how it is assembled, and timings once verified.",
+        "es": "Texto provisional. Describa el proceso constructivo de ModularDom para esta residencia solo con datos confirmados: qué se fabrica fuera de obra, cómo se monta y plazos una vez verificados.",
+        "ca": "Text provisional. Descriviu el procés constructiu de ModularDom per a aquesta residència només amb dades confirmades: què es fabrica fora d'obra, com es munta i terminis un cop verificats."
+      },
+      "verified": false
+    },
+    {
+      "id": "energy",
+      "title": {
+        "en": "Energy",
+        "es": "Energía",
+        "ca": "Energia"
+      },
+      "body": {
+        "en": "Publish energy ratings or certifications only once documented.",
+        "es": "Publique calificaciones energéticas o certificaciones solo cuando estén documentadas.",
+        "ca": "Publiqueu qualificacions energètiques o certificacions només quan estiguin documentades."
+      },
+      "verified": false
+    }
+  ],
+  "media": {
+    "hero": {
+      "src": "/projects/_demo/terraces/hero.jpg",
+      "alt": {
+        "en": "Demonstration plate: residence and landscape, study maquette",
+        "es": "Imagen de demostración: residence and landscape, maqueta de estudio",
+        "ca": "Imatge de demostració: residence and landscape, maqueta d'estudi"
+      },
+      "width": 2400,
+      "height": 1350,
+      "demo": true
+    },
+    "heroPortrait": {
+      "src": "/projects/_demo/terraces/hero-portrait.jpg",
+      "alt": {
+        "en": "Demonstration plate: residence and landscape, study maquette",
+        "es": "Imagen de demostración: residence and landscape, maqueta de estudio",
+        "ca": "Imatge de demostració: residence and landscape, maqueta d'estudi"
+      },
+      "width": 1200,
+      "height": 1600,
+      "demo": true,
+      "focal": "50% 60%"
+    },
+    "terrain": {
+      "src": "/projects/_demo/terraces/terrain.jpg",
+      "alt": {
+        "en": "Demonstration plate: the land before construction, study maquette",
+        "es": "Imagen de demostración: the land before construction, maqueta de estudio",
+        "ca": "Imatge de demostració: the land before construction, maqueta d'estudi"
+      },
+      "width": 2400,
+      "height": 1350,
+      "demo": true
+    },
+    "render": {
+      "src": "/projects/_demo/terraces/render.jpg",
+      "alt": {
+        "en": "Demonstration plate: the residence from the same viewpoint, study maquette",
+        "es": "Imagen de demostración: the residence from the same viewpoint, maqueta de estudio",
+        "ca": "Imatge de demostració: the residence from the same viewpoint, maqueta d'estudi"
+      },
+      "width": 2400,
+      "height": 1350,
+      "demo": true
+    },
+    "gallery": [
+      {
+        "src": "/projects/_demo/terraces/hero.jpg",
+        "alt": {
+          "en": "Demonstration plate: stepped residence at dusk, study maquette",
+          "es": "Imagen de demostración: stepped residence at dusk, maqueta de estudio",
+          "ca": "Imatge de demostració: stepped residence at dusk, maqueta d'estudi"
+        },
+        "width": 2400,
+        "height": 1350,
+        "demo": true,
+        "category": "exterior"
+      },
+      {
+        "src": "/projects/_demo/terraces/pool.jpg",
+        "alt": {
+          "en": "Demonstration plate: lower pool, study maquette",
+          "es": "Imagen de demostración: lower pool, maqueta de estudio",
+          "ca": "Imatge de demostració: lower pool, maqueta d'estudi"
+        },
+        "width": 2000,
+        "height": 1125,
+        "demo": true,
+        "category": "lifestyle"
+      },
+      {
+        "src": "/projects/_demo/terraces/facade.jpg",
+        "alt": {
+          "en": "Demonstration plate: sea façade at dusk, study maquette",
+          "es": "Imagen de demostración: sea façade at dusk, maqueta de estudio",
+          "ca": "Imatge de demostració: sea façade at dusk, maqueta d'estudi"
+        },
+        "width": 2000,
+        "height": 1125,
+        "demo": true,
+        "category": "exterior"
+      },
+      {
+        "src": "/projects/_demo/terraces/living.jpg",
+        "alt": {
+          "en": "Demonstration plate: living room, study maquette",
+          "es": "Imagen de demostración: living room, maqueta de estudio",
+          "ca": "Imatge de demostració: living room, maqueta d'estudi"
+        },
+        "width": 2000,
+        "height": 1125,
+        "demo": true,
+        "category": "interior"
+      },
+      {
+        "src": "/projects/_demo/terraces/terrace.jpg",
+        "alt": {
+          "en": "Demonstration plate: roof terrace, study maquette",
+          "es": "Imagen de demostración: roof terrace, maqueta de estudio",
+          "ca": "Imatge de demostració: roof terrace, maqueta d'estudi"
+        },
+        "width": 2000,
+        "height": 1125,
+        "demo": true,
+        "category": "lifestyle"
+      },
+      {
+        "src": "/projects/_demo/terraces/aerial.jpg",
+        "alt": {
+          "en": "Demonstration plate: aerial view, study maquette",
+          "es": "Imagen de demostración: aerial view, maqueta de estudio",
+          "ca": "Imatge de demostració: aerial view, maqueta d'estudi"
+        },
+        "width": 2000,
+        "height": 1125,
+        "demo": true,
+        "category": "architecture"
+      }
+    ]
+  },
+  "films": {},
+  "model3d": {
+    "type": "maquette",
+    "variant": "terraces",
+    "demo": true
+  },
+  "plans": [],
+  "seo": {}
+}

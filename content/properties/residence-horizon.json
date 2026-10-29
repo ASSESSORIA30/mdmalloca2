@@ -1,0 +1,518 @@
+{
+  "slug": "residence-horizon",
+  "order": 1,
+  "published": true,
+  "demo": true,
+  "name": "Residence Horizon",
+  "tagline": {
+    "en": "Two horizontal volumes open to the evening sea.",
+    "es": "Dos volúmenes horizontales abiertos al mar del atardecer.",
+    "ca": "Dos volums horitzontals oberts a la mar del capvespre."
+  },
+  "municipality": {
+    "en": "Demonstration plot",
+    "es": "Parcela de demostración",
+    "ca": "Parcel·la de demostració"
+  },
+  "zone": {
+    "en": "Southwest coast · demonstration",
+    "es": "Costa suroeste · demostración",
+    "ca": "Costa sud-oest · demostració"
+  },
+  "summary": {
+    "en": "A demonstration record showing how a residence is presented. Replace the text, figures and media with the project's confirmed information.",
+    "es": "Un registro de demostración que muestra cómo se presenta una residencia. Sustituya textos, cifras y archivos por la información confirmada del proyecto.",
+    "ca": "Un registre de demostració que mostra com es presenta una residència. Substituïu textos, xifres i fitxers per la informació confirmada del projecte."
+  },
+  "location": {
+    "lat": 39.535,
+    "lng": 2.43,
+    "precision": "approximate",
+    "radiusMeters": 3500,
+    "note": {
+      "en": "Illustrative position, not a real plot.",
+      "es": "Posición ilustrativa, no corresponde a una parcela real.",
+      "ca": "Posició il·lustrativa, no correspon a cap parcel·la real."
+    }
+  },
+  "specs": {
+    "plotArea": {
+      "value": 4200,
+      "unit": "m²"
+    },
+    "builtArea": {
+      "value": 480,
+      "unit": "m²"
+    },
+    "bedrooms": 5,
+    "bathrooms": 6,
+    "illustrative": true
+  },
+  "price": {
+    "mode": "on-request",
+    "amount": null,
+    "currency": "EUR",
+    "confirmed": false
+  },
+  "status": {
+    "value": "in-preparation",
+    "confirmed": false
+  },
+  "features": [
+    {
+      "en": "Sea views (to be confirmed on site)",
+      "es": "Vistas al mar (por confirmar in situ)",
+      "ca": "Vistes a la mar (per confirmar in situ)"
+    },
+    {
+      "en": "Infinity pool (study)",
+      "es": "Piscina desbordante (estudio)",
+      "ca": "Piscina desbordant (estudi)"
+    },
+    {
+      "en": "Terraces and pergola (study)",
+      "es": "Terrazas y pérgola (estudio)",
+      "ca": "Terrasses i pèrgola (estudi)"
+    },
+    {
+      "en": "Industrialised construction by ModularDom",
+      "es": "Construcción industrializada de ModularDom",
+      "ca": "Construcció industrialitzada de ModularDom"
+    }
+  ],
+  "architecture": [
+    {
+      "id": "concept",
+      "title": {
+        "en": "Concept",
+        "es": "Concepto",
+        "ca": "Concepte"
+      },
+      "body": {
+        "en": "Placeholder for the architectural concept from the project report. Describe how the residence answers its plot: orientation, views, the slope and what was kept.",
+        "es": "Texto provisional para el concepto arquitectónico de la memoria del proyecto. Describa cómo responde la residencia a su parcela: orientación, vistas, pendiente y lo que se ha conservado.",
+        "ca": "Text provisional per al concepte arquitectònic de la memòria del projecte. Descriviu com respon la residència a la parcel·la: orientació, vistes, pendent i què s'ha conservat."
+      },
+      "verified": false,
+      "image": {
+        "src": "/projects/_demo/horizon/detail.jpg",
+        "alt": {
+          "en": "Demonstration plate: architectural detail, study maquette",
+          "es": "Imagen de demostración: architectural detail, maqueta de estudio",
+          "ca": "Imatge de demostració: architectural detail, maqueta d'estudi"
+        },
+        "width": 2000,
+        "height": 1125,
+        "demo": true
+      }
+    },
+    {
+      "id": "materials",
+      "title": {
+        "en": "Materials and finishes",
+        "es": "Materiales y acabados",
+        "ca": "Materials i acabats"
+      },
+      "body": {
+        "en": "Placeholder. List only materials confirmed in the project specification.",
+        "es": "Texto provisional. Indique solo materiales confirmados en la especificación del proyecto.",
+        "ca": "Text provisional. Indiqueu només materials confirmats a l'especificació del projecte."
+      },
+      "verified": false
+    },
+    {
+      "id": "indoor-outdoor",
+      "title": {
+        "en": "Inside and out",
+        "es": "Interior y exterior",
+        "ca": "Interior i exterior"
+      },
+      "body": {
+        "en": "Placeholder for how living spaces open to terraces, pool and garden.",
+        "es": "Texto provisional sobre cómo se abren los espacios a terrazas, piscina y jardín.",
+        "ca": "Text provisional sobre com s'obren els espais a terrasses, piscina i jardí."
+      },
+      "verified": false,
+      "image": {
+        "src": "/projects/_demo/horizon/pool.jpg",
+        "alt": {
+          "en": "Demonstration plate: pool terrace, study maquette",
+          "es": "Imagen de demostración: pool terrace, maqueta de estudio",
+          "ca": "Imatge de demostració: pool terrace, maqueta d'estudi"
+        },
+        "width": 2000,
+        "height": 1125,
+        "demo": true
+      }
+    },
+    {
+      "id": "light",
+      "title": {
+        "en": "Natural light",
+        "es": "Luz natural",
+        "ca": "Llum natural"
+      },
+      "body": {
+        "en": "Placeholder for orientation and daylight studies.",
+        "es": "Texto provisional para orientación y estudios de luz natural.",
+        "ca": "Text provisional per a orientació i estudis de llum natural."
+      },
+      "verified": false
+    },
+    {
+      "id": "construction",
+      "title": {
+        "en": "Industrialised construction",
+        "es": "Construcción industrializada",
+        "ca": "Construcció industrialitzada"
+      },
+      "body": {
+        "en": "Placeholder. Describe the ModularDom building process for this residence with confirmed facts only: what is made off site, how it is assembled, and timings once verified.",
+        "es": "Texto provisional. Describa el proceso constructivo de ModularDom para esta residencia solo con datos confirmados: qué se fabrica fuera de obra, cómo se monta y plazos una vez verificados.",
+        "ca": "Text provisional. Descriviu el procés constructiu de ModularDom per a aquesta residència només amb dades confirmades: què es fabrica fora d'obra, com es munta i terminis un cop verificats."
+      },
+      "verified": false
+    },
+    {
+      "id": "energy",
+      "title": {
+        "en": "Energy",
+        "es": "Energía",
+        "ca": "Energia"
+      },
+      "body": {
+        "en": "Publish energy ratings or certifications only once documented.",
+        "es": "Publique calificaciones energéticas o certificaciones solo cuando estén documentadas.",
+        "ca": "Publiqueu qualificacions energètiques o certificacions només quan estiguin documentades."
+      },
+      "verified": false
+    }
+  ],
+  "media": {
+    "hero": {
+      "src": "/projects/_demo/horizon/hero.jpg",
+      "alt": {
+        "en": "Demonstration plate: residence and landscape, study maquette",
+        "es": "Imagen de demostración: residence and landscape, maqueta de estudio",
+        "ca": "Imatge de demostració: residence and landscape, maqueta d'estudi"
+      },
+      "width": 2400,
+      "height": 1350,
+      "demo": true
+    },
+    "heroPortrait": {
+      "src": "/projects/_demo/horizon/hero-portrait.jpg",
+      "alt": {
+        "en": "Demonstration plate: residence and landscape, study maquette",
+        "es": "Imagen de demostración: residence and landscape, maqueta de estudio",
+        "ca": "Imatge de demostració: residence and landscape, maqueta d'estudi"
+      },
+      "width": 1200,
+      "height": 1600,
+      "demo": true,
+      "focal": "50% 60%"
+    },
+    "terrain": {
+      "src": "/projects/_demo/horizon/terrain.jpg",
+      "alt": {
+        "en": "Demonstration plate: the land before construction, study maquette",
+        "es": "Imagen de demostración: the land before construction, maqueta de estudio",
+        "ca": "Imatge de demostració: the land before construction, maqueta d'estudi"
+      },
+      "width": 2400,
+      "height": 1350,
+      "demo": true
+    },
+    "render": {
+      "src": "/projects/_demo/horizon/render.jpg",
+      "alt": {
+        "en": "Demonstration plate: the residence from the same viewpoint, study maquette",
+        "es": "Imagen de demostración: the residence from the same viewpoint, maqueta de estudio",
+        "ca": "Imatge de demostració: the residence from the same viewpoint, maqueta d'estudi"
+      },
+      "width": 2400,
+      "height": 1350,
+      "demo": true
+    },
+    "gallery": [
+      {
+        "src": "/projects/_demo/horizon/hero.jpg",
+        "alt": {
+          "en": "Demonstration plate: arrival view, study maquette",
+          "es": "Imagen de demostración: arrival view, maqueta de estudio",
+          "ca": "Imatge de demostració: arrival view, maqueta d'estudi"
+        },
+        "width": 2400,
+        "height": 1350,
+        "demo": true,
+        "category": "exterior"
+      },
+      {
+        "src": "/projects/_demo/horizon/facade.jpg",
+        "alt": {
+          "en": "Demonstration plate: sea façade, study maquette",
+          "es": "Imagen de demostración: sea façade, maqueta de estudio",
+          "ca": "Imatge de demostració: sea façade, maqueta d'estudi"
+        },
+        "width": 2000,
+        "height": 1125,
+        "demo": true,
+        "category": "exterior"
+      },
+      {
+        "src": "/projects/_demo/horizon/living.jpg",
+        "alt": {
+          "en": "Demonstration plate: living room facing the sea, study maquette",
+          "es": "Imagen de demostración: living room facing the sea, maqueta de estudio",
+          "ca": "Imatge de demostració: living room facing the sea, maqueta d'estudi"
+        },
+        "width": 2000,
+        "height": 1125,
+        "demo": true,
+        "category": "interior"
+      },
+      {
+        "src": "/projects/_demo/horizon/detail.jpg",
+        "alt": {
+          "en": "Demonstration plate: cantilever detail, study maquette",
+          "es": "Imagen de demostración: cantilever detail, maqueta de estudio",
+          "ca": "Imatge de demostració: cantilever detail, maqueta d'estudi"
+        },
+        "width": 2000,
+        "height": 1125,
+        "demo": true,
+        "category": "architecture"
+      },
+      {
+        "src": "/projects/_demo/horizon/pool.jpg",
+        "alt": {
+          "en": "Demonstration plate: pool and pergola, study maquette",
+          "es": "Imagen de demostración: pool and pergola, maqueta de estudio",
+          "ca": "Imatge de demostració: pool and pergola, maqueta d'estudi"
+        },
+        "width": 2000,
+        "height": 1125,
+        "demo": true,
+        "category": "lifestyle"
+      },
+      {
+        "src": "/projects/_demo/horizon/pool-dusk.jpg",
+        "alt": {
+          "en": "Demonstration plate: pool at dusk, study maquette",
+          "es": "Imagen de demostración: pool at dusk, maqueta de estudio",
+          "ca": "Imatge de demostració: pool at dusk, maqueta d'estudi"
+        },
+        "width": 2000,
+        "height": 1125,
+        "demo": true,
+        "category": "lifestyle"
+      },
+      {
+        "src": "/projects/_demo/horizon/facade-night.jpg",
+        "alt": {
+          "en": "Demonstration plate: façade in the evening, study maquette",
+          "es": "Imagen de demostración: façade in the evening, maqueta de estudio",
+          "ca": "Imatge de demostració: façade in the evening, maqueta d'estudi"
+        },
+        "width": 2000,
+        "height": 1125,
+        "demo": true,
+        "category": "exterior"
+      },
+      {
+        "src": "/projects/_demo/horizon/aerial.jpg",
+        "alt": {
+          "en": "Demonstration plate: aerial view, study maquette",
+          "es": "Imagen de demostración: aerial view, maqueta de estudio",
+          "ca": "Imatge de demostració: aerial view, maqueta d'estudi"
+        },
+        "width": 2000,
+        "height": 1125,
+        "demo": true,
+        "category": "architecture"
+      },
+      {
+        "src": "/projects/_demo/horizon/terrace.jpg",
+        "alt": {
+          "en": "Demonstration plate: view from the terrace, study maquette",
+          "es": "Imagen de demostración: view from the terrace, maqueta de estudio",
+          "ca": "Imatge de demostració: view from the terrace, maqueta d'estudi"
+        },
+        "width": 2000,
+        "height": 1125,
+        "demo": true,
+        "category": "lifestyle"
+      },
+      {
+        "src": "/projects/_demo/horizon/construction.jpg",
+        "alt": {
+          "en": "Demonstration plate: modules being placed, study maquette",
+          "es": "Imagen de demostración: modules being placed, maqueta de estudio",
+          "ca": "Imatge de demostració: modules being placed, maqueta d'estudi"
+        },
+        "width": 2000,
+        "height": 1125,
+        "demo": true,
+        "category": "construction"
+      }
+    ]
+  },
+  "films": {
+    "hero": {
+      "mp4": "/projects/_demo/horizon/videos/hero.mp4",
+      "webm": "/projects/_demo/horizon/videos/hero.webm",
+      "mobileMp4": "/projects/_demo/horizon/videos/hero-720.mp4",
+      "poster": "/projects/_demo/horizon/videos/hero-poster.jpg",
+      "durationSeconds": 10,
+      "demo": true,
+      "title": {
+        "en": "Arrival",
+        "es": "Llegada",
+        "ca": "Arribada"
+      }
+    },
+    "transformation": {
+      "mp4": "/projects/_demo/horizon/videos/transformation.mp4",
+      "webm": "/projects/_demo/horizon/videos/transformation.webm",
+      "mobileMp4": "/projects/_demo/horizon/videos/transformation-720.mp4",
+      "poster": "/projects/_demo/horizon/videos/transformation-poster.jpg",
+      "durationSeconds": 14,
+      "demo": true,
+      "title": {
+        "en": "From land to residence",
+        "es": "Del terreno a la residencia",
+        "ca": "Del terreny a la residència"
+      }
+    }
+  },
+  "model3d": {
+    "type": "maquette",
+    "variant": "horizon",
+    "demo": true
+  },
+  "tour": {
+    "demo": true,
+    "plan": "/projects/_demo/horizon/plans/ground-floor.svg",
+    "scenes": [
+      {
+        "id": "living",
+        "title": {
+          "en": "Living room",
+          "es": "Salón",
+          "ca": "Sala d'estar"
+        },
+        "panorama": "/projects/_demo/horizon/panoramas/living.jpg",
+        "initialYaw": 0,
+        "planPosition": [
+          0.47,
+          0.42
+        ],
+        "links": [
+          {
+            "to": "terrace",
+            "yaw": -1.139,
+            "pitch": -0.081
+          },
+          {
+            "to": "pool",
+            "yaw": 0.82,
+            "pitch": -0.129
+          }
+        ]
+      },
+      {
+        "id": "terrace",
+        "title": {
+          "en": "West terrace",
+          "es": "Terraza oeste",
+          "ca": "Terrassa oest"
+        },
+        "panorama": "/projects/_demo/horizon/panoramas/terrace.jpg",
+        "initialYaw": 0.3,
+        "planPosition": [
+          0.14,
+          0.62
+        ],
+        "links": [
+          {
+            "to": "living",
+            "yaw": 2.003,
+            "pitch": -0.081
+          },
+          {
+            "to": "pool",
+            "yaw": 1.567,
+            "pitch": -0.059
+          }
+        ]
+      },
+      {
+        "id": "pool",
+        "title": {
+          "en": "Pool deck",
+          "es": "Solárium de la piscina",
+          "ca": "Solàrium de la piscina"
+        },
+        "panorama": "/projects/_demo/horizon/panoramas/pool.jpg",
+        "initialYaw": -0.4,
+        "planPosition": [
+          0.62,
+          0.7
+        ],
+        "links": [
+          {
+            "to": "living",
+            "yaw": -2.322,
+            "pitch": -0.129
+          },
+          {
+            "to": "garden",
+            "yaw": 1.928,
+            "pitch": -0.1
+          },
+          {
+            "to": "terrace",
+            "yaw": -1.575,
+            "pitch": -0.059
+          }
+        ]
+      },
+      {
+        "id": "garden",
+        "title": {
+          "en": "East garden",
+          "es": "Jardín este",
+          "ca": "Jardí est"
+        },
+        "panorama": "/projects/_demo/horizon/panoramas/garden.jpg",
+        "initialYaw": -1.2,
+        "planPosition": [
+          0.88,
+          0.5
+        ],
+        "links": [
+          {
+            "to": "pool",
+            "yaw": -1.213,
+            "pitch": -0.1
+          }
+        ]
+      }
+    ]
+  },
+  "plans": [
+    {
+      "id": "ground",
+      "title": {
+        "en": "Ground level · study",
+        "es": "Planta baja · estudio",
+        "ca": "Planta baixa · estudi"
+      },
+      "src": "/projects/_demo/horizon/plans/ground-floor.svg",
+      "width": 1600,
+      "height": 1100,
+      "demo": true
+    }
+  ],
+  "seo": {}
+}

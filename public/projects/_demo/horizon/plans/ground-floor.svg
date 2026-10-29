@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1100" width="1600" height="1100" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#161715">
+<defs><pattern id="water" width="10" height="10" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="10" height="10" fill="#DCE6E4"/><line x1="0" y1="0" x2="0" y2="10" stroke="#9FB9B6" stroke-width="1"/></pattern></defs>
+<rect width="1600" height="1100" fill="#F5F3EE"/>
+<rect x="110.0" y="50.0" width="1380.0" height="900.0" fill="#ECE8DF" stroke="#A89170" stroke-width="1"/>
+<rect x="80.0" y="50.0" width="30.0" height="900.0" fill="#ECE8DF" stroke="#A89170" stroke-width="1"/>
+<rect x="1490.0" y="50.0" width="30.0" height="900.0" fill="#ECE8DF" stroke="#A89170" stroke-width="1"/>
+<rect x="470.0" y="425.0" width="780.0" height="318.0" fill="#F5F3EE"/>
+<rect x="674.0" y="518.0" width="72.0" height="36.0" fill="#F5F3EE"/>
+<rect x="938.0" y="546.5" width="114.0" height="39.0" fill="#F5F3EE"/>
+<rect x="470.0" y="116.0" width="720.0" height="156.0" fill="url(#water)" stroke="#161715" stroke-width="1"/>
+<rect x="455.0" y="101.0" width="750.0" height="15.0" fill="none" stroke="#67645E" stroke-width="0.8"/>
+<rect x="455.0" y="272.0" width="750.0" height="15.0" fill="none" stroke="#67645E" stroke-width="0.8"/>
+<rect x="455.0" y="116.0" width="15.0" height="156.0" fill="none" stroke="#67645E" stroke-width="0.8"/>
+<rect x="1190.0" y="116.0" width="15.0" height="156.0" fill="none" stroke="#67645E" stroke-width="0.8"/>
+<rect x="1082.0" y="642.5" width="126.0" height="39.0" fill="none" stroke="#67645E" stroke-width="0.8"/>
+<rect x="605.0" y="503.0" width="210.0" height="138.0" fill="none" stroke="#67645E" stroke-width="0.8"/>
+<rect x="548.8" y="296.0" width="22.5" height="60.0" fill="none" stroke="#96938D" stroke-width="0.8"/>
+<rect x="596.8" y="296.0" width="22.5" height="60.0" fill="none" stroke="#96938D" stroke-width="0.8"/>
+<rect x="644.8" y="296.0" width="22.5" height="60.0" fill="none" stroke="#96938D" stroke-width="0.8"/>
+<rect x="692.8" y="296.0" width="22.5" height="60.0" fill="none" stroke="#96938D" stroke-width="0.8"/>
+<rect x="632.0" y="582.5" width="156.0" height="51.0" fill="none" stroke="#96938D" stroke-width="0.8"/>
+<rect x="578.0" y="512.0" width="48.0" height="90.0" fill="none" stroke="#96938D" stroke-width="0.8"/>
+<rect x="166.7" y="196.7" width="6.6" height="6.6" fill="#7A6547"/>
+<rect x="166.7" y="406.7" width="6.6" height="6.6" fill="#7A6547"/>
+<rect x="394.7" y="196.7" width="6.6" height="6.6" fill="#7A6547"/>
+<rect x="394.7" y="406.7" width="6.6" height="6.6" fill="#7A6547"/>
+<rect x="464.0" y="420.8" width="792.0" height="2.4" fill="#F5F3EE" stroke="#161715" stroke-width="1.2"/>
+<rect x="470.0" y="732.5" width="780.0" height="9.0" fill="#161715"/>
+<rect x="440.0" y="419.0" width="24.0" height="330.0" fill="#161715"/>
+<rect x="1256.0" y="419.0" width="24.0" height="330.0" fill="#161715"/>
+<rect x="410.0" y="323.0" width="930.0" height="450.0" fill="none" stroke="#161715" stroke-width="0.8" stroke-dasharray="6 6"/>
+<rect x="500.0" y="494.0" width="720.0" height="12.0" fill="none" stroke="#161715" stroke-width="0.8" stroke-dasharray="6 6"/>
+<line x1="120" y1="1015" x2="420" y2="1015" stroke="#161715"/><line x1="120" y1="1010" x2="120" y2="1020" stroke="#161715"/><text x="120" y="1040" text-anchor="middle">0 m</text><line x1="270" y1="1010" x2="270" y2="1020" stroke="#161715"/><text x="270" y="1040" text-anchor="middle">5 m</text><line x1="420" y1="1010" x2="420" y2="1020" stroke="#161715"/><text x="420" y="1040" text-anchor="middle">10 m</text>
+<text x="1480" y="1020" text-anchor="end" font-size="16">Ground level · demonstration study (not a project plan)</text>
+<text x="1480" y="1044" text-anchor="end" fill="#67645E">Sea side ↑</text>
+</svg>

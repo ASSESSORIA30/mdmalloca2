@@ -1,0 +1,107 @@
+{
+  "$comment": "Editorial modules for /experience. 'verified' must be true before a module is published with demoMode off. Never add distances or travel times unless measured for each plot.",
+  "modules": [
+    {
+      "id": "coves",
+      "layout": "wide",
+      "verified": false,
+      "title": { "en": "Coves and beaches", "es": "Calas y playas", "ca": "Cales i platges" },
+      "body": {
+        "en": "Mallorca's coastline alternates long sandy bays with small coves between pine and rock, many of them reached only on foot or by boat. Recommended coves near each plot will be listed here once verified.",
+        "es": "La costa de Mallorca alterna largas bahías de arena con pequeñas calas entre pinos y roca, muchas accesibles solo a pie o en barco. Las calas recomendadas cerca de cada parcela se indicarán aquí una vez verificadas.",
+        "ca": "La costa de Mallorca alterna llargues badies d'arena amb petites cales entre pins i roca, moltes accessibles només a peu o amb barca. Les cales recomanades a prop de cada parcel·la s'indicaran aquí un cop verificades."
+      },
+      "image": { "src": "/projects/_demo/landscape/coast-day.jpg", "width": 2400, "height": 1350, "demo": true, "focal": "50% 60%", "alt": { "en": "Demonstration plate: sea and coastline", "es": "Imagen de demostración: mar y costa", "ca": "Imatge de demostració: mar i costa" } }
+    },
+    {
+      "id": "harbours",
+      "layout": "text",
+      "verified": false,
+      "title": { "en": "Harbours and the sea", "es": "Puertos y mar", "ca": "Ports i mar" },
+      "body": {
+        "en": "The island has marinas along its coast, from Palma's bay to smaller harbours. Berths, charter options and the closest marina to each residence will be confirmed with the team.",
+        "es": "La isla cuenta con puertos deportivos a lo largo de su costa, desde la bahía de Palma hasta puertos más pequeños. Amarres, chárter y el puerto más cercano a cada residencia se confirmarán con el equipo.",
+        "ca": "L'illa té ports esportius al llarg de la costa, des de la badia de Palma fins a ports més petits. Amarratges, xàrter i el port més proper a cada residència es confirmaran amb l'equip."
+      }
+    },
+    {
+      "id": "tramuntana",
+      "layout": "split",
+      "verified": true,
+      "title": { "en": "The Serra de Tramuntana", "es": "La Serra de Tramuntana", "ca": "La Serra de Tramuntana" },
+      "body": {
+        "en": "The mountain range along the northwest coast was inscribed on the UNESCO World Heritage List in 2011 as a cultural landscape: centuries of dry-stone terraces, olive groves and paths shaped by farming in a steep terrain.",
+        "es": "La sierra que recorre la costa noroeste fue inscrita en la Lista del Patrimonio Mundial de la UNESCO en 2011 como paisaje cultural: siglos de bancales de piedra seca, olivares y caminos modelados por la agricultura en un terreno abrupto.",
+        "ca": "La serra que recorre la costa nord-oest va ser inscrita a la Llista del Patrimoni Mundial de la UNESCO el 2011 com a paisatge cultural: segles de marjades de pedra en sec, oliverars i camins modelats per l'agricultura en un terreny abrupte."
+      },
+      "image": { "src": "/projects/_demo/landscape/hills-golden.jpg", "width": 2400, "height": 1350, "demo": true, "focal": "50% 55%", "alt": { "en": "Demonstration plate: terraced hillside with olive trees", "es": "Imagen de demostración: ladera abancalada con olivos", "ca": "Imatge de demostració: vessant amb marjades i oliveres" } }
+    },
+    {
+      "id": "quote",
+      "layout": "quote",
+      "verified": true,
+      "title": { "en": "", "es": "", "ca": "" },
+      "body": {
+        "en": "The land is the first luxury. Everything else is designed to deserve it.",
+        "es": "El terreno es el primer lujo. Todo lo demás se diseña para estar a su altura.",
+        "ca": "El terreny és el primer luxe. Tota la resta es dissenya per ser-ne digne."
+      }
+    },
+    {
+      "id": "gastronomy",
+      "layout": "text",
+      "verified": false,
+      "title": { "en": "Gastronomy", "es": "Gastronomía", "ca": "Gastronomia" },
+      "body": {
+        "en": "Local olive oil, almonds, wine and fish from the island's waters. Restaurant recommendations will be curated by the team and published once confirmed.",
+        "es": "Aceite de oliva local, almendras, vino y pescado de las aguas de la isla. Las recomendaciones de restaurantes las seleccionará el equipo y se publicarán una vez confirmadas.",
+        "ca": "Oli d'oliva local, ametlles, vi i peix de les aigües de l'illa. Les recomanacions de restaurants les seleccionarà l'equip i es publicaran un cop confirmades."
+      }
+    },
+    {
+      "id": "golf",
+      "layout": "text",
+      "verified": false,
+      "title": { "en": "Golf", "es": "Golf", "ca": "Golf" },
+      "body": {
+        "en": "Several golf courses operate across the island. Which courses are nearest to each residence will be added after verification.",
+        "es": "En la isla hay varios campos de golf. Qué campos quedan más cerca de cada residencia se añadirá tras su verificación.",
+        "ca": "A l'illa hi ha diversos camps de golf. Quins camps queden més a prop de cada residència s'afegirà després de verificar-ho."
+      }
+    },
+    {
+      "id": "evening",
+      "layout": "wide",
+      "verified": false,
+      "title": { "en": "Evenings outside", "es": "Noches al aire libre", "ca": "Vespres a l'aire lliure" },
+      "body": {
+        "en": "Terraces designed for long evenings, when the light falls on the sea and the stone keeps the warmth of the day.",
+        "es": "Terrazas pensadas para tardes largas, cuando la luz cae sobre el mar y la piedra guarda el calor del día.",
+        "ca": "Terrasses pensades per a vespres llargs, quan la llum cau sobre la mar i la pedra guarda la calor del dia."
+      },
+      "image": { "src": "/projects/_demo/terraces/pool.jpg", "width": 2000, "height": 1125, "demo": true, "focal": "50% 50%", "alt": { "en": "Demonstration plate: pool terrace at dusk", "es": "Imagen de demostración: terraza con piscina al atardecer", "ca": "Imatge de demostració: terrassa amb piscina al capvespre" } }
+    },
+    {
+      "id": "access",
+      "layout": "text",
+      "verified": false,
+      "title": { "en": "Access and connections", "es": "Accesos y comunicaciones", "ca": "Accessos i comunicacions" },
+      "body": {
+        "en": "Palma de Mallorca airport (PMI) connects the island with mainland Spain and the rest of Europe. Travel times from each plot will be measured and published per residence.",
+        "es": "El aeropuerto de Palma de Mallorca (PMI) conecta la isla con la península y el resto de Europa. Los tiempos de desplazamiento desde cada parcela se medirán y publicarán por residencia.",
+        "ca": "L'aeroport de Palma (PMI) connecta l'illa amb la Península i la resta d'Europa. Els temps de desplaçament des de cada parcel·la es mesuraran i publicaran per residència."
+      }
+    },
+    {
+      "id": "services",
+      "layout": "text",
+      "verified": false,
+      "title": { "en": "Private services", "es": "Servicios privados", "ca": "Serveis privats" },
+      "body": {
+        "en": "Property management, concierge and maintenance partners will be listed once agreements are confirmed.",
+        "es": "Gestión de la propiedad, conserjería y mantenimiento se indicarán una vez confirmados los acuerdos.",
+        "ca": "Gestió de la propietat, consergeria i manteniment s'indicaran un cop confirmats els acords."
+      }
+    }
+  ]
+}

@@ -1,0 +1,334 @@
+{
+  "slug": "residence-patio",
+  "order": 2,
+  "published": true,
+  "demo": true,
+  "name": "Residence Patio",
+  "tagline": {
+    "en": "A single storey gathered around a courtyard pool.",
+    "es": "Una sola planta reunida en torno a un patio con piscina.",
+    "ca": "Una sola planta reunida al voltant d'un pati amb piscina."
+  },
+  "municipality": {
+    "en": "Demonstration plot",
+    "es": "Parcela de demostración",
+    "ca": "Parcel·la de demostració"
+  },
+  "zone": {
+    "en": "East coast · demonstration",
+    "es": "Costa este · demostración",
+    "ca": "Costa est · demostració"
+  },
+  "summary": {
+    "en": "A demonstration record showing how a residence is presented. Replace the text, figures and media with the project's confirmed information.",
+    "es": "Un registro de demostración que muestra cómo se presenta una residencia. Sustituya textos, cifras y archivos por la información confirmada del proyecto.",
+    "ca": "Un registre de demostració que mostra com es presenta una residència. Substituïu textos, xifres i fitxers per la informació confirmada del projecte."
+  },
+  "location": {
+    "lat": 39.6,
+    "lng": 3.33,
+    "precision": "approximate",
+    "radiusMeters": 3500,
+    "note": {
+      "en": "Illustrative position, not a real plot.",
+      "es": "Posición ilustrativa, no corresponde a una parcela real.",
+      "ca": "Posició il·lustrativa, no correspon a cap parcel·la real."
+    }
+  },
+  "specs": {
+    "plotArea": {
+      "value": 5600,
+      "unit": "m²"
+    },
+    "builtArea": {
+      "value": 420,
+      "unit": "m²"
+    },
+    "bedrooms": 4,
+    "bathrooms": 5,
+    "illustrative": true
+  },
+  "price": {
+    "mode": "on-request",
+    "amount": null,
+    "currency": "EUR",
+    "confirmed": false
+  },
+  "status": {
+    "value": "in-preparation",
+    "confirmed": false
+  },
+  "features": [
+    {
+      "en": "Sea views (to be confirmed on site)",
+      "es": "Vistas al mar (por confirmar in situ)",
+      "ca": "Vistes a la mar (per confirmar in situ)"
+    },
+    {
+      "en": "Infinity pool (study)",
+      "es": "Piscina desbordante (estudio)",
+      "ca": "Piscina desbordant (estudi)"
+    },
+    {
+      "en": "Terraces and pergola (study)",
+      "es": "Terrazas y pérgola (estudio)",
+      "ca": "Terrasses i pèrgola (estudi)"
+    },
+    {
+      "en": "Industrialised construction by ModularDom",
+      "es": "Construcción industrializada de ModularDom",
+      "ca": "Construcció industrialitzada de ModularDom"
+    }
+  ],
+  "architecture": [
+    {
+      "id": "concept",
+      "title": {
+        "en": "Concept",
+        "es": "Concepto",
+        "ca": "Concepte"
+      },
+      "body": {
+        "en": "Placeholder for the architectural concept from the project report. Describe how the residence answers its plot: orientation, views, the slope and what was kept.",
+        "es": "Texto provisional para el concepto arquitectónico de la memoria del proyecto. Describa cómo responde la residencia a su parcela: orientación, vistas, pendiente y lo que se ha conservado.",
+        "ca": "Text provisional per al concepte arquitectònic de la memòria del projecte. Descriviu com respon la residència a la parcel·la: orientació, vistes, pendent i què s'ha conservat."
+      },
+      "verified": false,
+      "image": {
+        "src": "/projects/_demo/patio/detail.jpg",
+        "alt": {
+          "en": "Demonstration plate: architectural detail, study maquette",
+          "es": "Imagen de demostración: architectural detail, maqueta de estudio",
+          "ca": "Imatge de demostració: architectural detail, maqueta d'estudi"
+        },
+        "width": 2000,
+        "height": 1125,
+        "demo": true
+      }
+    },
+    {
+      "id": "materials",
+      "title": {
+        "en": "Materials and finishes",
+        "es": "Materiales y acabados",
+        "ca": "Materials i acabats"
+      },
+      "body": {
+        "en": "Placeholder. List only materials confirmed in the project specification.",
+        "es": "Texto provisional. Indique solo materiales confirmados en la especificación del proyecto.",
+        "ca": "Text provisional. Indiqueu només materials confirmats a l'especificació del projecte."
+      },
+      "verified": false
+    },
+    {
+      "id": "indoor-outdoor",
+      "title": {
+        "en": "Inside and out",
+        "es": "Interior y exterior",
+        "ca": "Interior i exterior"
+      },
+      "body": {
+        "en": "Placeholder for how living spaces open to terraces, pool and garden.",
+        "es": "Texto provisional sobre cómo se abren los espacios a terrazas, piscina y jardín.",
+        "ca": "Text provisional sobre com s'obren els espais a terrasses, piscina i jardí."
+      },
+      "verified": false,
+      "image": {
+        "src": "/projects/_demo/patio/pool.jpg",
+        "alt": {
+          "en": "Demonstration plate: pool terrace, study maquette",
+          "es": "Imagen de demostración: pool terrace, maqueta de estudio",
+          "ca": "Imatge de demostració: pool terrace, maqueta d'estudi"
+        },
+        "width": 2000,
+        "height": 1125,
+        "demo": true
+      }
+    },
+    {
+      "id": "light",
+      "title": {
+        "en": "Natural light",
+        "es": "Luz natural",
+        "ca": "Llum natural"
+      },
+      "body": {
+        "en": "Placeholder for orientation and daylight studies.",
+        "es": "Texto provisional para orientación y estudios de luz natural.",
+        "ca": "Text provisional per a orientació i estudis de llum natural."
+      },
+      "verified": false
+    },
+    {
+      "id": "construction",
+      "title": {
+        "en": "Industrialised construction",
+        "es": "Construcción industrializada",
+        "ca": "Construcció industrialitzada"
+      },
+      "body": {
+        "en": "Placeholder. Describe the ModularDom building process for this residence with confirmed facts only: what is made off site, how it is assembled, and timings once verified.",
+        "es": "Texto provisional. Describa el proceso constructivo de ModularDom para esta residencia solo con datos confirmados: qué se fabrica fuera de obra, cómo se monta y plazos una vez verificados.",
+        "ca": "Text provisional. Descriviu el procés constructiu de ModularDom per a aquesta residència només amb dades confirmades: què es fabrica fora d'obra, com es munta i terminis un cop verificats."
+      },
+      "verified": false
+    },
+    {
+      "id": "energy",
+      "title": {
+        "en": "Energy",
+        "es": "Energía",
+        "ca": "Energia"
+      },
+      "body": {
+        "en": "Publish energy ratings or certifications only once documented.",
+        "es": "Publique calificaciones energéticas o certificaciones solo cuando estén documentadas.",
+        "ca": "Publiqueu qualificacions energètiques o certificacions només quan estiguin documentades."
+      },
+      "verified": false
+    }
+  ],
+  "media": {
+    "hero": {
+      "src": "/projects/_demo/patio/hero.jpg",
+      "alt": {
+        "en": "Demonstration plate: residence and landscape, study maquette",
+        "es": "Imagen de demostración: residence and landscape, maqueta de estudio",
+        "ca": "Imatge de demostració: residence and landscape, maqueta d'estudi"
+      },
+      "width": 2400,
+      "height": 1350,
+      "demo": true
+    },
+    "heroPortrait": {
+      "src": "/projects/_demo/patio/hero-portrait.jpg",
+      "alt": {
+        "en": "Demonstration plate: residence and landscape, study maquette",
+        "es": "Imagen de demostración: residence and landscape, maqueta de estudio",
+        "ca": "Imatge de demostració: residence and landscape, maqueta d'estudi"
+      },
+      "width": 1200,
+      "height": 1600,
+      "demo": true,
+      "focal": "50% 60%"
+    },
+    "terrain": {
+      "src": "/projects/_demo/patio/terrain.jpg",
+      "alt": {
+        "en": "Demonstration plate: the land before construction, study maquette",
+        "es": "Imagen de demostración: the land before construction, maqueta de estudio",
+        "ca": "Imatge de demostració: the land before construction, maqueta d'estudi"
+      },
+      "width": 2400,
+      "height": 1350,
+      "demo": true
+    },
+    "render": {
+      "src": "/projects/_demo/patio/render.jpg",
+      "alt": {
+        "en": "Demonstration plate: the residence from the same viewpoint, study maquette",
+        "es": "Imagen de demostración: the residence from the same viewpoint, maqueta de estudio",
+        "ca": "Imatge de demostració: the residence from the same viewpoint, maqueta d'estudi"
+      },
+      "width": 2400,
+      "height": 1350,
+      "demo": true
+    },
+    "gallery": [
+      {
+        "src": "/projects/_demo/patio/hero.jpg",
+        "alt": {
+          "en": "Demonstration plate: courtyard house, study maquette",
+          "es": "Imagen de demostración: courtyard house, maqueta de estudio",
+          "ca": "Imatge de demostració: courtyard house, maqueta d'estudi"
+        },
+        "width": 2400,
+        "height": 1350,
+        "demo": true,
+        "category": "exterior"
+      },
+      {
+        "src": "/projects/_demo/patio/aerial.jpg",
+        "alt": {
+          "en": "Demonstration plate: aerial view, study maquette",
+          "es": "Imagen de demostración: aerial view, maqueta de estudio",
+          "ca": "Imatge de demostració: aerial view, maqueta d'estudi"
+        },
+        "width": 2000,
+        "height": 1125,
+        "demo": true,
+        "category": "architecture"
+      },
+      {
+        "src": "/projects/_demo/patio/pool.jpg",
+        "alt": {
+          "en": "Demonstration plate: courtyard pool, study maquette",
+          "es": "Imagen de demostración: courtyard pool, maqueta de estudio",
+          "ca": "Imatge de demostració: courtyard pool, maqueta d'estudi"
+        },
+        "width": 2000,
+        "height": 1125,
+        "demo": true,
+        "category": "lifestyle"
+      },
+      {
+        "src": "/projects/_demo/patio/living.jpg",
+        "alt": {
+          "en": "Demonstration plate: living wing, study maquette",
+          "es": "Imagen de demostración: living wing, maqueta de estudio",
+          "ca": "Imatge de demostració: living wing, maqueta d'estudi"
+        },
+        "width": 2000,
+        "height": 1125,
+        "demo": true,
+        "category": "interior"
+      },
+      {
+        "src": "/projects/_demo/patio/facade.jpg",
+        "alt": {
+          "en": "Demonstration plate: south façade, study maquette",
+          "es": "Imagen de demostración: south façade, maqueta de estudio",
+          "ca": "Imatge de demostració: south façade, maqueta d'estudi"
+        },
+        "width": 2000,
+        "height": 1125,
+        "demo": true,
+        "category": "exterior"
+      },
+      {
+        "src": "/projects/_demo/patio/detail.jpg",
+        "alt": {
+          "en": "Demonstration plate: roof edge, study maquette",
+          "es": "Imagen de demostración: roof edge, maqueta de estudio",
+          "ca": "Imatge de demostració: roof edge, maqueta d'estudi"
+        },
+        "width": 2000,
+        "height": 1125,
+        "demo": true,
+        "category": "architecture"
+      }
+    ]
+  },
+  "films": {
+    "transformation": {
+      "mp4": "/projects/_demo/horizon/videos/transformation.mp4",
+      "webm": "/projects/_demo/horizon/videos/transformation.webm",
+      "mobileMp4": "/projects/_demo/horizon/videos/transformation-720.mp4",
+      "poster": "/projects/_demo/horizon/videos/transformation-poster.jpg",
+      "durationSeconds": 14,
+      "demo": true,
+      "title": {
+        "en": "From land to residence",
+        "es": "Del terreno a la residencia",
+        "ca": "Del terreny a la residència"
+      }
+    }
+  },
+  "model3d": {
+    "type": "maquette",
+    "variant": "patio",
+    "demo": true
+  },
+  "plans": [],
+  "seo": {}
+}
